@@ -1,0 +1,6 @@
+let a =2;
+console.log('a=' + e + 'típusa:' + typeof e);
+const pi = 3.14;
+console.log('pi=' + pi + 'típusa:' + typeof e);
+
+console.log(0.1+0.2)
