@@ -25,3 +25,13 @@ console.log(person.name)
 console.log(person.age)
 console.log(person.isStudent)
 console.log(person.address)
+
+let xy;
+console.log(xy);
+
+console.log('\nBOOLEAN');
+console.log(typeof true);
+console.log(Boolean(0));
+console.log(Boolean(""));
+console.log(Boolean("a"));
+console.log(Boolean(1));
